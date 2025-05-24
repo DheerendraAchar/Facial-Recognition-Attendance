@@ -1,0 +1,9 @@
+echo "venv/
+venv310/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.dat
+*.dylib
+*.so" > .gitignore
